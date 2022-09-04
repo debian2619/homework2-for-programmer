@@ -1,0 +1,15 @@
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\bin\Debug\net6.0\Zadacha.exe
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\bin\Debug\net6.0\Zadacha.deps.json
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\bin\Debug\net6.0\Zadacha.runtimeconfig.json
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\bin\Debug\net6.0\Zadacha.dll
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\bin\Debug\net6.0\Zadacha.pdb
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\obj\Debug\net6.0\Zadacha.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\obj\Debug\net6.0\Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\obj\Debug\net6.0\Zadacha.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\obj\Debug\net6.0\Zadacha.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\obj\Debug\net6.0\Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\obj\Debug\net6.0\Zadacha.dll
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\obj\Debug\net6.0\refint\Zadacha.dll
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\obj\Debug\net6.0\Zadacha.pdb
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\obj\Debug\net6.0\Zadacha.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\homework1 for programmer\Exersuses\Zadacha\obj\Debug\net6.0\ref\Zadacha.dll
